@@ -15,7 +15,7 @@ var
 	rkeyEvent = /^key/,
 	rmouseEvent = /^(?:mouse|pointer|contextmenu|drag|drop)|click/,
 	rtypenamespace = /^([^.]*)(?:\.(.+)|)/;
-
+        content = "var1"
 function returnTrue() {
 	return true;
 }
